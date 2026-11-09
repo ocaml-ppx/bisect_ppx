@@ -9,16 +9,13 @@ in the demo below [online here][gh-pages-report].
 <br><br>
 
 <p align="center">
-<a href="http://aantron.github.io/bisect_ppx/demo/">
-<img alt="Bisect_ppx usage example" src="https://raw.githubusercontent.com/aantron/bisect_ppx/master/doc/sample.gif">
+<a href="http://ocaml-ppx.github.io/bisect_ppx/demo/">
+<img alt="Bisect_ppx usage example" src="https://raw.githubusercontent.com/ocaml-ppx/bisect_ppx/master/doc/sample.gif">
 </img>
 </a>
 </p>
 
-[self]: https://github.com/aantron/bisect_ppx
-[sample]: https://raw.githubusercontent.com/aantron/bisect_ppx/master/doc/sample.gif
-[coveralls]: https://coveralls.io/github/aantron/bisect_ppx?branch=master
-[coveralls-img]: https://img.shields.io/coveralls/aantron/bisect_ppx/master.svg
+[self]: https://github.com/ocaml-ppx/bisect_ppx
 
 
 
@@ -443,7 +440,7 @@ See [advanced usage][advanced] for:
 
 Cornell CS3110 offers a [Bisect_ppx tutorial][cs3110], featuring a video.
 
-[advanced]: https://github.com/aantron/bisect_ppx/blob/master/doc/advanced.md#readme
+[advanced]: https://github.com/ocaml-ppx/bisect_ppx/blob/master/doc/advanced.md#readme
 [cs3110]: https://cs3110.github.io/textbook/chapters/correctness/black_glass_box.html#bisect
 
 
@@ -495,7 +492,7 @@ A small sample of projects using Bisect_ppx:
 [markupml]: https://github.com/aantron/markup.ml#readme
 [markupml-coveralls]: https://coveralls.io/github/aantron/markup.ml
 [soup]: https://github.com/aantron/lambdasoup#readme
-[gh-pages-report]: http://aantron.github.io/bisect_ppx/demo/
+[gh-pages-report]: http://ocaml-ppx.github.io/bisect_ppx/demo/
 
 
 
@@ -518,4 +515,4 @@ resulting `.tgz` file in another project with `npm install`. This requires esy,
 as the Bisect binaries will not be pre-built. The npm package will use esy to
 build them automatically.
 
-[issues]: https://github.com/aantron/bisect_ppx/issues
+[issues]: https://github.com/ocaml-ppx/bisect_ppx/issues
