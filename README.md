@@ -1,7 +1,4 @@
 <h1 align="center">
-<img alt="Bisect_ppx" src="https://raw.githubusercontent.com/aantron/bisect_ppx/master/doc/logo.png" width="200">
-</img>
-<br>
 Bisect_ppx
 </h1>
 
